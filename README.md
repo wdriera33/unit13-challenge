@@ -6,19 +6,28 @@
 * AWS Lambda Function
 
 
-## Libraries use for Script
+# Libraries use for Script
 * Pandas 
 * Matplotlib
 * hvplot
 * Sklearn
 * Pathlib 
 
-## RoboAdvisor Test Run
-![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
-![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
+# RoboAdvisor Test Run
+## Robo Clear Chat 
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/RoboTested/RoboClearChat.png "Logo Title Text 1")
+
+## Robo Question 1
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/RoboTested/RoboQuestion1.png "Logo Title Text 1")
+
+## Robo Question 2 & 3
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/RoboTested/RoboQuestion2%263.png "Logo Title Text 1")
+
+## Robo Question 4 & 5
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/RoboTested/RoboQuestion4%265.png "Logo Title Text 1")
+
+## Robo Final Question
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/RoboTested/RoboFinalQuestion.png "Logo Title Text 1")
 
 
 # Overview 
