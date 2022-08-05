@@ -1,30 +1,42 @@
 # RoboAdvisor
-![alt text](https://raw.githubusercontent.com/wdriera33/LSTM-Stock-Predictor/main/deep-learning-artificial-intellig.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
 
-# Trading Strategies Infuence
-* Social Media
-* News Articles
-* Crypto Fear and Greed Index (FNG)
+# Cloud Services
+* AWS Services
+* AWS Lambda Function
+
 
 ## Libraries use for Script
-* Numpy
-* Tensorflow
-* Pandas
-* Hvplot
-#
+* Pandas 
+* Matplotlib
+* hvplot
+* Sklearn
+* Pathlib 
+
+## RoboAdvisor Test Run
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/wdriera33/unit13-challenge/main/Robo.jpg "Logo Title Text 1")
+
+
 # Overview 
-* FNG Values to Predict Future Closing Prices
-* Past Closing Prices\Predict Future Closing Prices
-* MinMaxScaler to the X and Y Values 
-* Reshape X_train and X_test 
+* Digital transformation consultant
+* Machine learning and NLP
+* Created a robo advisor for investment portfolio recommendations
+
 
 # Conclusion
-* In this homework we used Deep-Learning to determine which model had the lowest loss, track the best value over time & define best windows size used for the model.
+* I used my well known skills in Amazon Web Services & Python, to create a bot that will recommend an investment portfolio for a retirement plan.
 
 # Resources
-* Keras Sequential Model Guide
-* Illustrated Guide to LSTMs
-* Stanford's RNN Cheatsheet
+* lambda_function.py
+* correct_dialog.txt
+* age_error.txt
+* incorrect_amount_error.txt
+* negative_age_error.txt
+
 
 #
 #
